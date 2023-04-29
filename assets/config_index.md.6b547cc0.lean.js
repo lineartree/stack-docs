@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a}from"./app.f4097d50.js";const _=JSON.parse('{"title":"Introduction","description":"","frontmatter":{},"headers":[],"relativePath":"config/index.md","lastUpdated":null}'),n={name:"config/index.md"},c=a("",6),i=[c];function d(r,s,f,l,u,p){return t(),o("div",null,i)}const m=e(n,[["render",d]]);export{_ as __pageData,m as default};

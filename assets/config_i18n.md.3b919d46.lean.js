@@ -1,0 +1,1 @@
+import{_ as e,c as i,o,a as l}from"./app.f4097d50.js";const f=JSON.parse('{"title":"i18n","description":"","frontmatter":{},"headers":[],"relativePath":"config/i18n.md","lastUpdated":null}'),a={name:"config/i18n.md"},n=l("",7),c=[n];function t(d,r,s,u,h,p){return o(),i("div",null,c)}const _=e(a,[["render",t]]);export{f as __pageData,_ as default};
